@@ -7,7 +7,9 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 
 ### Regional Close-Ups & Hotspots
 ![Florida Peninsula](FirstTry2.png)
+
 ![North Carolina](FirstTry3 - NC.png)
+
 ![Alabama, Georgia, South Carolina](FirstTry3 -al,ga,sc.png)
 
 ## Cartographic Stack & Methodology
