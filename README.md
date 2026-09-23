@@ -5,6 +5,9 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 ### Southeast US Master Layout
 ![Southeast Overview](FirstTry.png)
 
+### Carolina Wolf Spider
+![Carolina Wolf Spider](carolinawolfspider.png)
+
 ### Regional Close-Ups & Hotspots
 ![Florida Peninsula](FirstTry2.png)
 
