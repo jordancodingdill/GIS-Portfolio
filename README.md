@@ -16,7 +16,13 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 
 ![North Carolina](FirstTry3.png)
 
+### Orchard Orbweaver
+![Orchard Orbweaver](orchardorbweaver.jpg)
+
 ![Alabama, Georgia, South Carolina](FirstTry4.png)
+
+### Southern Black Widow
+![Southern Black Widow](southernblackwidow.webp)
 
 ## Cartographic Stack & Methodology
 * **Software:** QGIS (configured for crisp 300 DPI exports)
