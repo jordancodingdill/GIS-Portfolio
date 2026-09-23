@@ -11,6 +11,9 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 ### Regional Close-Ups & Hotspots
 ![Florida Peninsula](FirstTry2.png)
 
+### Golden Silk Spider
+![Golden Silk Spider](goldensilkspider.jpg)
+
 ![North Carolina](FirstTry3.png)
 
 ![Alabama, Georgia, South Carolina](FirstTry4.png)
