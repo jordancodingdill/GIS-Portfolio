@@ -6,7 +6,7 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 ![Southeast Overview](FirstTry.png)
 
 ### Carolina Wolf Spider
-![Carolina Wolf Spider](cws.jpeg)
+![Carolina Wolf Spider](wolfspidernc.webp)
 
 ### Regional Close-Ups & Hotspots
 ![Florida Peninsula](FirstTry2.png)
