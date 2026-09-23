@@ -22,7 +22,7 @@ Professional GIS portfolio project showcasing spatial ecology, GBIF occurrence d
 ![Alabama, Georgia, South Carolina](FirstTry4.png)
 
 ### Southern Black Widow
-![Southern Black Widow](southernblackwidow.webp)
+![Southern Black Widow](sbw.jpeg)
 
 ## Cartographic Stack & Methodology
 * **Software:** QGIS (configured for crisp 300 DPI exports)
