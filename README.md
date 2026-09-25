@@ -12,7 +12,7 @@ This portfolio project is structured as a visual essay moving from continental-s
 
 A spatial analysis and cartographic portfolio series examining how human infrastructure, political boundaries, and observer bias skew global biodiversity and occurrence data (GBIF) for jaguars (*Panthera onca*) and key prey species across Central and South America.
 
-![Opening Jaguar Reference](jaguar.jpg)
+![Opening Jaguar Reference](jaguar.avif)
 
 ---
 
@@ -34,16 +34,16 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 ---
 
 ### 3. Missing Data (The Silent Basins)
-* ![Ecuadorian Amazon Map](ecuadorian_amazon_result.jpg)
-* ![Guiana Basin Map](guiana_basin_result.jpg)
-* ![Putumayo Basin Map](putumayo_basin_result.jpg)
+* ![Ecuadorian Amazon Map](macro_ecuadorianamazon_result.jpg)
+* ![Guiana Basin Map](macro_guiana_result.jpg)
+* ![Putumayo Basin Map](macro_putumayo_result.jpg)
 * **Focus:** Analysis of dense remote regions like the Ecuadorian, Guiana, and Putumayo Basins.
 * **Takeaway:** Demonstrates that data scarcity in massive wilderness areas reflects impenetrable terrain and a lack of human surveyors rather than an actual absence of biology.
 
 ---
 
 ### 4. The Absolute (Prey) Goldmine
-* ![Llanos Basin Map](llanos_basin_result.jpg)
+* ![Llanos Basin Map](macor_llanosbasin_result.jpg)
 * **Focus:** The Llanos Basin.
 * **Takeaway:** Shows an immense abundance of prey data, but surprisingly low jaguar data when the ecosystem suggests it *should* be thriving with apex predators.
 
@@ -57,7 +57,7 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 ---
 
 ### 6. Questionably MIA
-* ![Costa Rica Map](costa_rica_result.jpg)
+* ![Costa Rica Map](macro_costarica_result.jpg)
 * **Focus:** Costa Rica region.
 * **Takeaway:** Data shows plenty of jaguar and caiman records (alongside a healthy amount of peccary data), yet it is entirely void of capybara data.
 
@@ -67,30 +67,30 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 * ![Campinas and Piracicaba Map](macro_campinas_result.jpg)
   * **Focus:** Campinas / Piracicaba landscapes.
   * **Takeaway:** Dominated heavily by capybara data driven by human population density, agriculture, and suburban expansion.
-* ![Colombia and Panama Map](macro_colombiapubamasi_result.jpg)
+* ![Colombia and Panama Map](macro_colombiapunama_result.jpg)
   * **Focus:** Colombia and Panama corridor.
   * **Takeaway:** Shows scarce caiman and jaguar data while we know capys and peccaries live here abundantly. Most caiman data concentrates on only 3 accessible banks where human observation is safest; rugged terrain and security challenges heavily restrict field research here.
-* ![Yucatan Peninsula Map](macro_yucupan_peninsula_result.jpg)
+* ![Yucatan Peninsula Map](macro_yucutanpeninsula_result.jpg)
   * **Focus:** Yucatan Peninsula.
   * **Takeaway:** Data captures peccaries and jaguars well, but completely underrepresents the abundant caiman populations present in the region.
 
 ---
 
 ### 8. Just Jags (The Abundant Truth)
-* ![Pantanal Map](pantanal_result.jpg)
+* ![Pantanal Map](macro_pantanal_result.jpg)
   * **Focus:** Pantanal region.
   * **Takeaway:** Annual flooding pushes prey biomass completely off the charts, yet our occurrence records here are heavily skewed to show almost exclusively jaguars.
-* ![Capivara National Park Map](capivara_np_result.jpg)
+* ![Capivara National Park Map](macro_capivara_result.jpg)
   * **Focus:** National park named after one of the jaguar's favorite prey species.
   * **Takeaway:** Despite its name and ecology, downloaded GBIF occurrences here show data almost exclusively for jaguars.
-* ![Gran Chaco Map](gran_chaco_result.jpg)
+* ![Gran Chaco Map](macro_granchaco_result.jpg)
   * **Focus:** Gran Chaco region.
   * **Takeaway:** Demonstrates a similar pattern of almost entirely jaguar-only data occurrences despite high prey abundance.
 
 ---
 
 ### 9. Final Photo: The Undeniable Data
-* ![Brasilia Map](Brasilia/Cerrado_result.jpg)
+* ![Brasilia Map](macro_brasilia_result.jpg)
 * **Focus:** The Brasilia region interface.
 * **Takeaway:** Displays jaguars grouped to the west, peccaries and capybaras heavily to the right, while major river systems known to be flooded with caimans, jaguars, capys, and peccaries are completely void of any species data. 
 * **Final Conclusion:** GBIF data should never be taken as absolute truth for wildlife distribution. If used properly, it serves as a powerful lens tracking human observation bias, infrastructure access, and surveyor footprints just as much as it tracks actual animal biology.
