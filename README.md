@@ -21,7 +21,7 @@ This portfolio project is structured as a visual essay moving from continental-s
    * *Takeaway:* Shows how data spikes artificially in areas where human infrastructure, roads, and agriculture create overlapping bottlenecks between people and wildlife.
 
 4. **The Infrastructure Interface (`capys` & Brasilia/Cerrado):**
-   * *Focus:* Terminal views of capybaras and caimans thriving right alongside human developments.
+   * *Focus:* Terminal views of capybaras and pecarris thriving right alongside human developments.
    * *Takeaway:* Concludes the narrative by proving that our global wildlife maps often track human footprints just as much as they track animal biology.
 
 ---
