@@ -59,7 +59,7 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 * ![Costa Rica Map](macro_costarica_result.jpg)
 * ![Ecuadorian Amazon Map](macro_ecuadorianamazon_result.jpg)
 * **Focus:** Costa Rica and Ecuadorian Amazon regions.
-* **Takeaway:** Data shows plenty of jaguar and caiman records (alongside a healthy amount of peccary data), yet these regions almost entirely void of capybara data.
+* **Takeaway:** Data shows plenty of jaguar and caiman records (alongside a healthy amount of peccaries data), yet these regions almost entirely void of capybara data.
 
 ---
 
@@ -72,7 +72,7 @@ A spatial analysis and cartographic portfolio series examining how human infrast
   * **Takeaway:** Shows scarce caiman and jaguar data while we know capys and peccaries live here abundantly. Most caiman data concentrates on only 3 accessible banks where human observation is safest; rugged terrain and security challenges heavily restrict field research here.
 * ![Yucatan Peninsula Map](macro_yucutanpeninsula_result.jpg)
   * **Focus:** Yucatan Peninsula.
-  * **Takeaway:** Data captures jaguars (and some pecarris) well, but completely underrepresents the abundant caiman populations present in the region. Rapid resort expansion, fragmentation from highway infrastructure, and shifting agricultural plots create isolated micro-habitats where sporadic citizen-science sightings clash with true ecological distribution.
+  * **Takeaway:** Data captures jaguars (and some peccaries) well, but completely underrepresents the abundant caiman populations present in the region. Rapid resort expansion, fragmentation from highway infrastructure, and shifting agricultural plots create isolated micro-habitats where sporadic citizen-science sightings clash with true ecological distribution.
 
 ---
 
