@@ -34,16 +34,15 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 ---
 
 ### 3. Missing Data (The Silent Basins)
-* ![Ecuadorian Amazon Map](macro_ecuadorianamazon_result.jpg)
 * ![Guiana Basin Map](macro_guiana_result.jpg)
 * ![Putumayo Basin Map](macro_putumayo_result.jpg)
-* **Focus:** Analysis of dense remote regions like the Ecuadorian, Guiana, and Putumayo Basins.
+* **Focus:** Analysis of dense remote regions like the Guiana Shield and Putumayo Basin.
 * **Takeaway:** Demonstrates that data scarcity in massive wilderness areas reflects impenetrable terrain and a lack of human surveyors rather than an actual absence of biology.
 
 ---
 
 ### 4. The Absolute (Prey) Goldmine
-* ![Llanos Basin Map](macor_llanosbasin_result.jpg)
+* ![Llanos Basin Map](macro_llanosbasin_result.jpg)
 * **Focus:** The Llanos Basin.
 * **Takeaway:** Shows an immense abundance of prey data, but surprisingly low jaguar data when the ecosystem suggests it *should* be thriving with apex predators.
 
@@ -58,8 +57,9 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 
 ### 6. Questionably MIA
 * ![Costa Rica Map](macro_costarica_result.jpg)
-* **Focus:** Costa Rica region.
-* **Takeaway:** Data shows plenty of jaguar and caiman records (alongside a healthy amount of peccary data), yet it is entirely void of capybara data.
+* ![Ecuadorian Amazon Map](acro_ecuadorianamazon_result.jpg)
+* **Focus:** Costa Rica and Ecuadorian Amazon regions.
+* **Takeaway:** Data shows plenty of jaguar and caiman records (alongside a healthy amount of peccary data), yet these regions almost entirely void of capybara data.
 
 ---
 
