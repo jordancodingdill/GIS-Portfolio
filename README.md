@@ -72,7 +72,7 @@ A spatial analysis and cartographic portfolio series examining how human infrast
   * **Takeaway:** Shows scarce caiman and jaguar data while we know capys and peccaries live here abundantly. Most caiman data concentrates on only 3 accessible banks where human observation is safest; rugged terrain and security challenges heavily restrict field research here.
 * ![Yucatan Peninsula Map](macro_yucutanpeninsula_result.jpg)
   * **Focus:** Yucatan Peninsula.
-  * **Takeaway:** Data captures jaguars (and some pecarris) well, but completely underrepresents the abundant caiman populations present in the region.
+  * **Takeaway:** Data captures jaguars (and some pecarris) well, but completely underrepresents the abundant caiman populations present in the region. Rapid resort expansion, fragmentation from highway infrastructure, and shifting agricultural plots create isolated micro-habitats where sporadic citizen-science sightings clash with true ecological distribution.
 
 ---
 
