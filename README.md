@@ -8,7 +8,7 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 
 This portfolio project is structured as a visual essay moving from continental-scale macroecology down to localized human-wildlife interfaces:
 
-1. **The Phantom Apex (`macrocont_all`):** 
+1. **The Phantom Apex (`macrocont_all_result`):** 
    * *Focus:* The broad continental distribution of jaguars. 
    * *Takeaway:* Highlights the initial mismatch between natural predator ranges and artificial political or administrative data gaps.
    
