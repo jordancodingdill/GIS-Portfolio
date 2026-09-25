@@ -12,7 +12,7 @@ This portfolio project is structured as a visual essay moving from continental-s
 
 A spatial analysis and cartographic portfolio series examining how human infrastructure, political boundaries, and observer bias skew global biodiversity and occurrence data (GBIF) for jaguars (*Panthera onca*) and key prey species across Central and South America.
 
-![Opening Jaguar Reference](jaguar.avif)
+* ![Opening Jaguar Reference](jaguarport.jpg)
 
 ---
 
@@ -92,7 +92,10 @@ A spatial analysis and cartographic portfolio series examining how human infrast
 ### 9. Final Photo: The Undeniable Data
 * ![Brasilia Map](macro_brasilia_result.jpg)
 * **Focus:** The Brasilia region interface.
-* **Takeaway:** Displays jaguars grouped to the west, peccaries and capybaras heavily to the right, while major river systems known to be flooded with caimans, jaguars, capys, and peccaries are completely void of any species data. 
+* **Takeaway:** Displays jaguars grouped to the west, peccaries and capybaras heavily to the right (hugged to the human infrastructure), while major river systems known to be flooded with caimans, jaguars, capys, and peccaries are completely void of any species data. 
+
+* ![Capys Near Humans](capys.jpeg)
+
 * **Final Conclusion:** GBIF data should never be taken as absolute truth for wildlife distribution. If used properly, it serves as a powerful lens tracking human observation bias, infrastructure access, and surveyor footprints just as much as it tracks actual animal biology.
 
 ---
