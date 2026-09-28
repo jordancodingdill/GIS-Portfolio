@@ -10,7 +10,7 @@ This project explores that difference and asks a simple question:
 
 ---
 
-# Burmese Python
+## Burmese Python
 
 ![Burmese Python](pythonphoto.webp)
 
@@ -22,7 +22,7 @@ But before looking at the data, it is important to remember that an observation 
 
 ---
 
-# Following the Python Record
+## Following the Python Record
 
 ![Burmese Python Observations](macro_pythons_main_result.jpg)
 
@@ -36,7 +36,7 @@ That raises an important question:
 
 ---
 
-# The Bobcat
+## The Bobcat
 
 ![Bobcat Observations](macro_bobcats_main_result.jpg)
 
@@ -50,7 +50,7 @@ The difference does not necessarily mean that bobcats are absent from areas wher
 
 ---
 
-# Same Landscape, Different Record
+## Same Landscape, Different Record
 
 ![Burmese Python and Bobcat Observations](both_homestead_result.jpg)
 
@@ -64,7 +64,7 @@ It is showing us that **the amount of recorded information about these two speci
 
 ---
 
-# Eight Points
+## Eight Points
 
 ![Bobcat Observations - Homestead](bobcats_homestead_result.jpg)
 
@@ -78,7 +78,7 @@ What they do demonstrate is how limited the recorded dataset is compared with th
 
 ---
 
-# The Bobcat
+## The Bobcat
 
 ![Bobcat](bobcatphoto.jpg)
 
@@ -90,7 +90,7 @@ The difference between the python and bobcat datasets gives us an opportunity to
 
 ---
 
-# Following the Python Data
+## Following the Python Data
 
 ![Burmese Python Observations - Levee 28](Levee28_final.png)
 
@@ -102,7 +102,7 @@ Rather than viewing the points independently, the landscape allows us to examine
 
 ---
 
-# Ochopee
+## Ochopee
 
 ![Burmese Python Observations - Ochopee](pythons_ochopee_result.jpg)
 
@@ -116,7 +116,7 @@ Accessibility, survey effort, reporting, detection, and monitoring priorities ca
 
 ---
 
-# The Bigger Picture
+## The Bigger Picture
 
 ![Burmese Python and Bobcat Observations - Everglades](finalphoto_final.png)
 
