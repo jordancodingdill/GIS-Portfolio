@@ -135,3 +135,13 @@ The contrast between them reveals something beyond the animals themselves.
 It shows how wildlife data can reflect human attention, monitoring, accessibility, and priorities just as much as it reflects the landscape.
 
 **In the Everglades, the map doesn't just show us where wildlife has been found. It also shows us where we've been looking.**
+
+---
+
+## Data & Resources
+
+**Wildlife occurrence data:** [GBIF.org](https://www.gbif.org/) — Global Biodiversity Information Facility  
+**GIS & spatial analysis:** QGIS  
+**Mapping:** QGIS basemap and geographic reference data
+
+GBIF occurrence records were used to visualize documented wildlife observations across South Florida. These records represent reported observations and should not be interpreted as a complete representation of species abundance or distribution.
